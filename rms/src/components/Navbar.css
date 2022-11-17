@@ -1,0 +1,8 @@
+.nav{
+ border: 2px solid red;
+ height: 50px;
+}
+a{
+    padding-left: 30px;
+    text-decoration: none;
+  }
